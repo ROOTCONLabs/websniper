@@ -5,15 +5,6 @@ Description
 ----------------
 WebSniper - Web Application Security Testing Framework, the framework is built under Python language, the framework will act as supplementary tool without needing to launch third-party tools, the framework can be used by testers during their manual assessment. The framework has a metasploit-like-console which testers can run different modules easily.
 
-Contributors
-----------------
-
-semprix - Dax Labrador - contributor
-
-shipcod3 - Jay Turla - contributor
-
-godflux - Medz Barao - contributord
-
 Directory structure
 -------------------
 
